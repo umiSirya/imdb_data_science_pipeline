@@ -1,0 +1,176 @@
+tconst,title,year,runtime_min,genres,rating,votes,rank,primary_genre,decade,runtime_category,is_classic,votes_millions
+tt0111161,The Shawshank Redemption,1994,142,Drama,9.3,3189547,1,Drama,1990s,normal,False,3.19
+tt0068646,The Godfather,1972,175,"Crime,Drama",9.2,2226753,2,Crime,1970s,long,True,2.23
+tt0468569,The Dark Knight,2008,152,"Action,Crime,Drama",9.1,3168745,3,Action,2000s,long,False,3.17
+tt0167260,The Lord of the Rings: The Return of the King,2003,201,"Adventure,Drama,Fantasy",9.0,2165290,4,Adventure,2000s,long,False,2.17
+tt0108052,Schindler's List,1993,195,"Biography,Drama,History",9.0,1586066,5,Biography,1990s,long,False,1.59
+tt0071562,The Godfather Part II,1974,202,"Crime,Drama",9.0,1495806,6,Crime,1970s,long,True,1.5
+tt0050083,12 Angry Men,1957,96,"Crime,Drama",9.0,984634,7,Crime,1950s,short,True,0.98
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,2001,178,"Adventure,Drama,Fantasy",8.9,2207283,8,Adventure,2000s,long,False,2.21
+tt1375666,Inception,2010,148,"Action,Adventure,Sci-Fi",8.8,2817928,9,Action,2010s,normal,False,2.82
+tt0137523,Fight Club,1999,139,"Crime,Drama,Thriller",8.8,2609320,10,Crime,1990s,normal,False,2.61
+tt0109830,Forrest Gump,1994,142,"Drama,Romance",8.8,2497456,11,Drama,1990s,normal,False,2.5
+tt0110912,Pulp Fiction,1994,154,"Crime,Drama",8.8,2435933,12,Crime,1990s,long,False,2.44
+tt0167261,The Lord of the Rings: The Two Towers,2002,179,"Adventure,Drama,Fantasy",8.8,1957938,13,Adventure,2000s,long,False,1.96
+tt0060196,"The Good, the Bad and the Ugly",1966,178,"Adventure,Drama,Western",8.8,891714,14,Adventure,1960s,long,True,0.89
+tt0816692,Interstellar,2014,169,"Adventure,Drama,Sci-Fi",8.7,2530273,15,Adventure,2010s,long,False,2.53
+tt0133093,The Matrix,1999,136,"Action,Sci-Fi",8.7,2248191,16,Action,1990s,normal,False,2.25
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,1980,124,"Action,Adventure,Fantasy",8.7,1505616,17,Action,1980s,normal,False,1.51
+tt0099685,GoodFellas,1990,145,"Biography,Crime,Drama",8.7,1392171,18,Biography,1990s,normal,False,1.39
+tt23849204,12th Fail,2023,147,"Biography,Drama",8.7,171657,19,Biography,2020s,normal,False,0.17
+tt0114369,Seven,1995,127,"Crime,Drama,Mystery",8.6,2021789,20,Crime,1990s,normal,False,2.02
+tt0102926,The Silence of the Lambs,1991,118,"Crime,Drama,Horror",8.6,1723917,21,Crime,1990s,normal,False,1.72
+tt0120815,Saving Private Ryan,1998,169,"Drama,War",8.6,1639586,22,Drama,1990s,long,False,1.64
+tt0076759,Star Wars: Episode IV - A New Hope,1977,121,"Action,Adventure,Fantasy",8.6,1570960,23,Action,1970s,normal,True,1.57
+tt0120689,The Green Mile,1999,189,"Crime,Drama,Fantasy",8.6,1561989,24,Crime,1990s,long,False,1.56
+tt0103064,Terminator 2: Judgment Day,1991,137,"Action,Adventure,Sci-Fi",8.6,1284572,25,Action,1990s,normal,False,1.28
+tt0073486,One Flew Over the Cuckoo's Nest,1975,133,Drama,8.6,1157549,26,Drama,1970s,normal,True,1.16
+tt0245429,Spirited Away,2001,124,"Adventure,Animation,Family",8.6,967483,27,Adventure,2000s,normal,False,0.97
+tt0317248,City of God,2002,130,"Crime,Drama",8.6,871176,28,Crime,2000s,normal,False,0.87
+tt0118799,Life Is Beautiful,1997,116,"Comedy,Drama,Romance",8.6,813151,29,Comedy,1990s,normal,False,0.81
+tt0038650,It's a Wonderful Life,1946,130,"Drama,Family,Fantasy",8.6,554973,30,Drama,1940s,normal,True,0.55
+tt0047478,Seven Samurai,1954,207,"Action,Drama",8.6,401883,31,Action,1950s,long,True,0.4
+tt15097216,Jai Bhim,2021,164,"Crime,Drama",8.6,234238,32,Crime,2020s,long,False,0.23
+tt10189514,Soorarai Pottru,2020,153,Drama,8.6,131892,33,Drama,2020s,long,False,0.13
+tt1853728,Django Unchained,2012,165,"Drama,Western",8.5,1883363,34,Drama,2010s,long,False,1.88
+tt0172495,Gladiator,2000,155,"Action,Adventure,Drama",8.5,1850369,35,Action,2000s,long,False,1.85
+tt0482571,The Prestige,2006,130,"Drama,Mystery,Sci-Fi",8.5,1588402,36,Drama,2000s,normal,False,1.59
+tt0407887,The Departed,2006,151,"Crime,Drama,Thriller",8.5,1554593,37,Crime,2000s,long,False,1.55
+tt0088763,Back to the Future,1985,116,"Adventure,Comedy,Sci-Fi",8.5,1453660,38,Adventure,1980s,normal,False,1.45
+tt0110413,Léon: The Professional,1994,110,"Action,Crime,Drama",8.5,1351367,39,Action,1990s,normal,False,1.35
+tt0120586,American History X,1998,119,"Crime,Drama",8.5,1273533,40,Crime,1990s,normal,False,1.27
+tt0110357,The Lion King,1994,88,"Adventure,Animation,Drama",8.5,1259139,41,Adventure,1990s,short,False,1.26
+tt0114814,The Usual Suspects,1995,106,"Crime,Drama,Mystery",8.5,1239606,42,Crime,1990s,normal,False,1.24
+tt6751668,Parasite,2019,132,"Drama,Thriller",8.5,1164272,43,Drama,2010s,normal,False,1.16
+tt2582802,Whiplash,2014,106,"Drama,Music",8.5,1155239,44,Drama,2010s,normal,False,1.16
+tt0078748,Alien,1979,117,"Horror,Sci-Fi",8.5,1064456,45,Horror,1970s,normal,True,1.06
+tt1675434,The Intouchables,2011,112,"Comedy,Drama",8.5,1027718,46,Comedy,2010s,normal,False,1.03
+tt0253474,The Pianist,2002,150,"Biography,Drama,Music",8.5,1012734,47,Biography,2000s,normal,False,1.01
+tt0054215,Psycho,1960,109,"Drama,Horror,Mystery",8.5,785510,48,Drama,1960s,normal,True,0.79
+tt0034583,Casablanca,1942,102,"Drama,Romance,War",8.5,655918,49,Drama,1940s,normal,True,0.66
+tt10811166,The Kashmir Files,2022,170,Drama,8.5,578990,50,Drama,2020s,long,False,0.58
+tt9362722,Spider-Man: Across the Spider-Verse,2023,140,"Action,Adventure,Animation",8.5,524515,51,Action,2020s,normal,False,0.52
+tt0095327,Grave of the Fireflies,1988,88,"Animation,Drama,War",8.5,385658,52,Animation,1980s,short,False,0.39
+tt0064116,Once Upon a Time in the West,1968,145,"Drama,Western",8.5,384346,53,Drama,1960s,normal,True,0.38
+tt0095765,Cinema Paradiso,1988,174,"Drama,Romance",8.5,317777,54,Drama,1980s,long,False,0.32
+tt0027977,Modern Times,1936,87,"Comedy,Drama,Romance",8.5,285341,55,Comedy,1930s,short,True,0.29
+tt0021749,City Lights,1931,87,"Comedy,Drama,Romance",8.5,216510,56,Comedy,1930s,short,True,0.22
+tt1345836,The Dark Knight Rises,2012,164,"Action,Crime,Drama",8.4,1994675,57,Action,2010s,long,False,1.99
+tt0361748,Inglourious Basterds,2009,153,"Adventure,Drama,War",8.4,1783866,58,Adventure,2000s,long,False,1.78
+tt4154796,Avengers: Endgame,2019,181,"Action,Adventure,Sci-Fi",8.4,1447070,59,Action,2010s,long,False,1.45
+tt0209144,Memento,2000,113,"Drama,Mystery,Thriller",8.4,1435593,60,Drama,2000s,normal,False,1.44
+tt4154756,Avengers: Infinity War,2018,149,"Action,Adventure,Sci-Fi",8.4,1372533,61,Action,2010s,normal,False,1.37
+tt0910970,WALL·E,2008,98,"Adventure,Animation,Family",8.4,1321292,62,Adventure,2000s,short,False,1.32
+tt0081505,The Shining,1980,146,"Drama,Horror",8.4,1225869,63,Drama,1980s,normal,False,1.23
+tt0119217,Good Will Hunting,1997,126,"Drama,Romance",8.4,1217550,64,Drama,1990s,normal,False,1.22
+tt0082971,Raiders of the Lost Ark,1981,115,"Action,Adventure",8.4,1110633,65,Action,1980s,normal,False,1.11
+tt0090605,Aliens,1986,137,"Action,Adventure,Horror",8.4,841005,66,Action,1980s,normal,False,0.84
+tt4633694,Spider-Man: Into the Spider-Verse,2018,117,"Action,Adventure,Animation",8.4,789530,67,Action,2010s,normal,False,0.79
+tt0078788,Apocalypse Now,1979,147,"Drama,Mystery,War",8.4,770471,68,Drama,1970s,normal,True,0.77
+tt15239678,Dune: Part Two,2024,166,"Action,Adventure,Drama",8.4,746896,69,Action,2020s,long,False,0.75
+tt2380307,Coco,2017,105,"Adventure,Animation,Drama",8.4,707654,70,Adventure,2010s,normal,False,0.71
+tt0047396,Rear Window,1954,112,"Drama,Mystery,Thriller",8.4,569513,71,Drama,1950s,normal,True,0.57
+tt1187043,3 Idiots,2009,170,"Comedy,Drama",8.4,482290,72,Comedy,2000s,long,False,0.48
+tt0086879,Amadeus,1984,160,"Biography,Drama,Music",8.4,468255,73,Biography,1980s,long,False,0.47
+tt0405094,The Lives of Others,2006,137,"Drama,Mystery,Thriller",8.4,443346,74,Drama,2000s,normal,False,0.44
+tt5311514,Your Name.,2016,106,"Animation,Drama,Fantasy",8.4,392684,75,Animation,2010s,normal,False,0.39
+tt0043014,Sunset Boulevard,1950,110,"Drama,Film-Noir",8.4,261296,76,Drama,1950s,normal,True,0.26
+tt0032553,The Great Dictator,1940,125,"Comedy,Drama,War",8.4,259563,77,Comedy,1940s,normal,True,0.26
+tt0050825,Paths of Glory,1957,88,"Drama,War",8.4,238923,78,Drama,1950s,short,True,0.24
+tt0051201,Witness for the Prosecution,1957,116,"Crime,Drama,Mystery",8.4,162277,79,Crime,1950s,normal,True,0.16
+tt8267604,Capernaum,2018,126,Drama,8.4,124319,80,Drama,2010s,normal,False,0.12
+tt7286456,Joker,2019,122,"Crime,Drama,Thriller",8.3,1694265,81,Crime,2010s,normal,False,1.69
+tt0169547,American Beauty,1999,122,Drama,8.3,1280108,82,Drama,1990s,normal,False,1.28
+tt1049413,Up,2009,96,"Adventure,Animation,Comedy",8.3,1236319,83,Adventure,2000s,short,False,1.24
+tt0086190,Star Wars: Episode VI - Return of the Jedi,1983,131,"Action,Adventure,Fantasy",8.3,1210244,84,Action,1980s,normal,False,1.21
+tt0338013,Eternal Sunshine of the Spotless Mind,2004,108,"Drama,Romance,Sci-Fi",8.3,1183182,85,Drama,2000s,normal,False,1.18
+tt0114709,Toy Story,1995,81,"Adventure,Animation,Comedy",8.3,1174415,86,Adventure,1990s,short,False,1.17
+tt0105236,Reservoir Dogs,1992,99,"Crime,Thriller",8.3,1171145,87,Crime,1990s,short,False,1.17
+tt0112573,Braveheart,1995,178,"Biography,Drama,War",8.3,1161420,88,Biography,1990s,long,False,1.16
+tt0086250,Scarface,1983,170,"Crime,Drama",8.3,1016236,89,Crime,1980s,long,False,1.02
+tt0180093,Requiem for a Dream,2000,102,Drama,8.3,973781,90,Drama,2000s,normal,False,0.97
+tt0435761,Toy Story 3,2010,103,"Adventure,Animation,Comedy",8.3,970005,91,Adventure,2010s,normal,False,0.97
+tt0211915,Amélie,2001,122,"Comedy,Romance",8.3,840156,92,Comedy,2000s,normal,False,0.84
+tt0113277,Heat,1995,170,"Action,Crime,Drama",8.3,804392,93,Action,1990s,long,False,0.8
+tt0062622,2001: A Space Odyssey,1968,149,"Adventure,Sci-Fi",8.3,783993,94,Adventure,1960s,normal,True,0.78
+tt0364569,Oldboy,2003,120,"Action,Drama,Mystery",8.3,719135,95,Action,2000s,normal,False,0.72
+tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,95,"Comedy,War",8.3,551671,96,Comedy,1960s,short,True,0.55
+tt0119698,Princess Mononoke,1997,133,"Adventure,Animation,Fantasy",8.3,484123,97,Adventure,1990s,normal,False,0.48
+tt2106476,The Hunt,2012,115,Drama,8.3,409667,98,Drama,2010s,normal,False,0.41
+tt0087843,Once Upon a Time in America,1984,229,"Crime,Drama",8.3,409135,99,Crime,1980s,long,False,0.41
+tt0053125,North by Northwest,1959,136,"Adventure,Drama,Mystery",8.3,369859,100,Adventure,1950s,normal,True,0.37
+tt0056172,Lawrence of Arabia,1962,227,"Adventure,Biography,Drama",8.3,342373,101,Adventure,1960s,long,True,0.34
+tt12042730,Project Hail Mary,2026,156,"Adventure,Comedy,Drama",8.3,296751,102,Adventure,2020s,long,False,0.3
+tt0082096,Das Boot,1981,149,"Drama,War",8.3,288028,103,Drama,1980s,normal,False,0.29
+tt0045152,Singin' in the Rain,1952,103,"Comedy,Musical,Romance",8.3,282727,104,Comedy,1950s,normal,True,0.28
+tt1832382,A Separation,2011,123,Drama,8.3,277833,105,Drama,2010s,normal,False,0.28
+tt1255953,Incendies,2010,131,"Drama,Mystery,War",8.3,251117,106,Drama,2010s,normal,False,0.25
+tt5074352,Dangal,2016,161,"Action,Biography,Drama",8.3,243185,107,Action,2010s,long,False,0.24
+tt0986264,Like Stars on Earth,2007,162,"Drama,Family",8.3,232327,108,Drama,2000s,long,False,0.23
+tt0053604,The Apartment,1960,125,"Comedy,Drama,Romance",8.3,219479,109,Comedy,1960s,normal,True,0.22
+tt0022100,M,1931,99,"Crime,Mystery,Thriller",8.3,182932,110,Crime,1930s,short,True,0.18
+tt0036775,Double Indemnity,1944,107,"Crime,Drama,Film-Noir",8.3,181459,111,Crime,1940s,normal,True,0.18
+tt8503618,Hamilton,2020,160,"Biography,Drama,History",8.3,139288,112,Biography,2020s,long,False,0.14
+tt33014583,Dhurandhar,2025,214,"Action,Adventure,Crime",8.3,139229,113,Action,2020s,long,False,0.14
+tt8110330,Dil Bechara,2020,101,"Comedy,Drama,Romance",8.3,137736,114,Comedy,2020s,normal,False,0.14
+tt10295212,Shershaah,2021,135,"Action,Biography,Drama",8.3,136510,115,Action,2020s,normal,False,0.14
+tt0091251,Come and See,1985,142,"Drama,Thriller,War",8.3,122979,116,Drama,1980s,normal,False,0.12
+tt0044741,Ikiru,1952,143,Drama,8.3,102362,117,Drama,1950s,normal,True,0.1
+tt0993846,The Wolf of Wall Street,2013,180,"Biography,Comedy,Crime",8.2,1788459,118,Biography,2010s,long,False,1.79
+tt0372784,Batman Begins,2005,140,"Action,Crime,Drama",8.2,1714592,119,Action,2000s,normal,False,1.71
+tt1130884,Shutter Island,2010,138,"Drama,Mystery,Thriller",8.2,1648243,120,Drama,2010s,normal,False,1.65
+tt0120382,The Truman Show,1998,103,"Comedy,Drama",8.2,1374276,121,Comedy,1990s,normal,False,1.37
+tt0266697,Kill Bill: Vol. 1,2003,111,"Action,Crime,Thriller",8.2,1308169,122,Action,2000s,normal,False,1.31
+tt0266543,Finding Nemo,2003,100,"Adventure,Animation,Comedy",8.2,1207890,123,Adventure,2000s,normal,False,1.21
+tt0477348,No Country for Old Men,2007,122,"Crime,Drama,Thriller",8.2,1190435,124,Crime,2000s,normal,False,1.19
+tt0107290,Jurassic Park,1993,127,"Action,Adventure,Sci-Fi",8.2,1178216,125,Action,1990s,normal,False,1.18
+tt0167404,The Sixth Sense,1999,107,"Drama,Mystery,Thriller",8.2,1145210,126,Drama,1990s,normal,False,1.15
+tt0268978,A Beautiful Mind,2001,135,"Biography,Drama,Mystery",8.2,1053678,127,Biography,2000s,normal,False,1.05
+tt15398776,Oppenheimer,2023,180,"Biography,Drama,History",8.2,1034385,128,Biography,2020s,long,False,1.03
+tt0095016,Die Hard,1988,132,"Action,Thriller",8.2,1030563,129,Action,1980s,normal,False,1.03
+tt0075314,Taxi Driver,1976,114,"Crime,Drama",8.2,1026896,130,Crime,1970s,normal,True,1.03
+tt0208092,Snatch,2000,102,"Comedy,Crime",8.2,977367,131,Comedy,2000s,normal,False,0.98
+tt0066921,A Clockwork Orange,1971,136,"Crime,Sci-Fi",8.2,937111,132,Crime,1970s,normal,True,0.94
+tt1392214,Prisoners,2013,153,"Crime,Drama,Mystery",8.2,935467,133,Crime,2010s,long,False,0.94
+tt1745960,Top Gun: Maverick,2022,130,"Action,Drama",8.2,865893,134,Action,2020s,normal,False,0.87
+tt0097576,Indiana Jones and the Last Crusade,1989,127,"Action,Adventure",8.2,864109,135,Action,1980s,normal,False,0.86
+tt0093058,Full Metal Jacket,1987,116,"Drama,War",8.2,851432,136,Drama,1980s,normal,False,0.85
+tt8579674,1917,2019,119,"Action,Drama,War",8.2,771608,137,Action,2010s,normal,False,0.77
+tt0457430,Pan's Labyrinth,2006,118,"Drama,Fantasy,War",8.2,746952,138,Drama,2000s,normal,False,0.75
+tt0469494,There Will Be Blood,2007,158,Drama,8.2,708783,139,Drama,2000s,long,False,0.71
+tt6966692,Green Book,2018,130,"Biography,Comedy,Drama",8.2,686284,140,Biography,2010s,normal,False,0.69
+tt0119488,L.A. Confidential,1997,138,"Crime,Drama,Mystery",8.2,659531,141,Crime,1990s,normal,False,0.66
+tt0112641,Casino,1995,178,"Crime,Drama",8.2,619776,142,Crime,1990s,long,False,0.62
+tt0084787,The Thing,1982,109,"Horror,Mystery,Sci-Fi",8.2,526938,143,Horror,1980s,normal,False,0.53
+tt0347149,Howl's Moving Castle,2004,119,"Adventure,Animation,Family",8.2,512407,144,Adventure,2000s,normal,False,0.51
+tt0033467,Citizen Kane,1941,119,"Drama,Mystery",8.2,493926,145,Drama,1940s,normal,True,0.49
+tt0105695,Unforgiven,1992,130,"Drama,Western",8.2,469152,146,Drama,1990s,normal,False,0.47
+tt0052357,Vertigo,1958,128,"Mystery,Romance,Thriller",8.2,459515,147,Mystery,1950s,normal,True,0.46
+tt0363163,Downfall,2004,156,"Biography,Drama,History",8.2,400591,148,Biography,2000s,long,False,0.4
+tt0031381,Gone with the Wind,1939,238,"Drama,Romance,War",8.2,356822,149,Drama,1930s,long,True,0.36
+tt0056592,To Kill a Mockingbird,1962,129,"Crime,Drama",8.2,351834,150,Crime,1960s,normal,True,0.35
+tt0053291,Some Like It Hot,1959,121,"Comedy,Music,Romance",8.2,305083,151,Comedy,1950s,normal,True,0.31
+tt0070735,The Sting,1973,129,"Comedy,Crime,Drama",8.2,301663,152,Comedy,1970s,normal,True,0.3
+tt0059578,For a Few Dollars More,1965,132,"Drama,Western",8.2,300343,153,Drama,1960s,normal,True,0.3
+tt0080678,The Elephant Man,1980,124,"Biography,Drama",8.2,282613,154,Biography,1980s,normal,False,0.28
+tt0057115,The Great Escape,1963,172,"Adventure,Drama,Thriller",8.2,277858,155,Adventure,1960s,long,True,0.28
+tt10272386,The Father,2020,97,"Drama,Mystery",8.2,245274,156,Drama,2020s,short,False,0.25
+tt1305806,The Secret in Their Eyes,2009,129,"Drama,Mystery,Romance",8.2,242372,157,Drama,2000s,normal,False,0.24
+tt4729430,Klaus,2019,96,"Adventure,Animation,Comedy",8.2,236923,158,Adventure,2010s,short,False,0.24
+tt29623480,The Wild Robot,2024,102,"Adventure,Animation,Family",8.2,224161,159,Adventure,2020s,normal,False,0.22
+tt0017136,Metropolis,1927,153,"Drama,Sci-Fi",8.2,201356,160,Drama,1920s,long,True,0.2
+tt0040522,Bicycle Thieves,1948,89,Drama,8.2,192765,161,Drama,1940s,short,True,0.19
+tt10698680,K.G.F: Chapter 2,2022,166,"Action,Crime,Drama",8.2,169670,162,Action,2020s,long,False,0.17
+tt0089881,Ran,1985,160,"Action,Drama,War",8.2,152151,163,Action,1980s,long,False,0.15
+tt0042192,All About Eve,1950,138,Drama,8.2,149368,164,Drama,1950s,normal,True,0.15
+tt0012349,The Kid,1921,68,"Comedy,Drama,Family",8.2,145736,165,Comedy,1920s,short,True,0.15
+tt0055630,Yojimbo,1961,110,"Action,Drama,Thriller",8.2,143151,166,Action,1960s,normal,True,0.14
+tt5323662,A Silent Voice: The Movie,2016,130,"Animation,Drama",8.2,142034,167,Animation,2010s,normal,False,0.14
+tt0040897,The Treasure of the Sierra Madre,1948,126,"Adventure,Drama,Western",8.2,141529,168,Adventure,1940s,normal,True,0.14
+tt4849438,Baahubali 2: The Conclusion,2017,167,"Action,Drama",8.2,134129,169,Action,2010s,long,False,0.13
+tt8108198,Andhadhun,2018,139,"Comedy,Crime,Mystery",8.2,116277,170,Comedy,2010s,normal,False,0.12
+tt1954470,Gangs of Wasseypur,2012,321,"Action,Comedy,Crime",8.2,114291,171,Action,2010s,long,False,0.11
+tt4430212,Drishyam,2015,163,"Crime,Drama,Mystery",8.2,109016,172,Crime,2010s,long,False,0.11
+tt0367110,Swades,2004,189,"Drama,Musical",8.2,106126,173,Drama,2000s,long,False,0.11
+tt0476735,My Father and My Son,2005,112,Drama,8.2,100894,174,Drama,2000s,normal,False,0.1
+tt11032374,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,2020,117,"Action,Adventure,Animation",8.2,100755,175,Action,2020s,normal,False,0.1
